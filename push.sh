@@ -1,3 +1,3 @@
 #!/bin/bash
-docker tag hello-world:latest your_username/hello-world:your_tag
-docker push your_username/hello-world:your_tag
+docker tag go-app:latest zjfroot/go-app:1.0.0
+docker push zjfroot/go-app:1.0.0
